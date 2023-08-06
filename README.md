@@ -1,3 +1,3 @@
 # Titanix-rootfs
 
-为Tianix提供一个rootfs
+为Titanix提供一个rootfs
